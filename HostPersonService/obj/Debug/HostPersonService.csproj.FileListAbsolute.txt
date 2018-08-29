@@ -1,0 +1,8 @@
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\HostPersonService\bin\Debug\HostPersonService.exe.config
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\HostPersonService\bin\Debug\HostPersonService.exe
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\HostPersonService\bin\Debug\HostPersonService.pdb
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\HostPersonService\bin\Debug\PersonService.dll
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\HostPersonService\bin\Debug\PersonService.pdb
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\HostPersonService\obj\Debug\HostPersonService.csprojResolveAssemblyReference.cache
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\HostPersonService\obj\Debug\HostPersonService.exe
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\HostPersonService\obj\Debug\HostPersonService.pdb

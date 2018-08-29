@@ -1,0 +1,6 @@
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\PersonService\obj\Debug\PersonService.csprojResolveAssemblyReference.cache
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\PersonService\bin\Debug\PersonService.dll.config
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\PersonService\bin\Debug\PersonService.dll
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\PersonService\bin\Debug\PersonService.pdb
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\PersonService\obj\Debug\PersonService.dll
+c:\users\jae.toole\documents\visual studio 2013\Projects\MyFirstService\PersonService\obj\Debug\PersonService.pdb
