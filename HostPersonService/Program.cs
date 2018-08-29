@@ -13,6 +13,9 @@ namespace HostPersonService
         {
             ServiceHost host = new ServiceHost(typeof(PersonService.CustomerService));
             host.Open();
+            Console.WriteLine("Host Started");
+            Console.ReadLine();
+            host.Close();
         }
     }
 }
